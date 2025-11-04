@@ -34,12 +34,8 @@ This project studies how **home-country labor costs** and **destination-country 
 - M5: Writing & submission
 
 ## Documents
-- **One-pager**: `docs/RP_onepager.pdf`
-- **Extended (5 pp)**: `docs/RP_extended_5pp.pdf`
-- **Full (30 pp)**: `docs/RP_full_30pp.pdf`
-
-(If you host PDFs elsewhere, link them here:
-[One-pager](docs/RP_onepager.pdf) · [Extended](docs/RP_extended_5pp.pdf) · [Full](docs/RP_full_30pp.pdf))
+- **One-pager:** [docs/RP_onepager.pdf](docs/RP_onepager.pdf)
+- **Full (30 pp):** [docs/RP_full_30pp.pdf](docs/RP_full_30pp.pdf)
 
 ## Contact
 Yuxin Hou — peggyhou0223@gmail.com
